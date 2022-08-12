@@ -1,3 +1,3 @@
 # JSC-JC-EOM
 
-The datasets related to the manuscript will be uploaded after the manuscript is accepted formly.
+The datasets generated during the study "Factors, components and dynamics: Investigation of journal self-citation and citation by equal opportunity model".
